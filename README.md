@@ -1,1 +1,3 @@
-# Arkanoid-pa-que-pases-PDVJ
+# Arkanoid
+Programed in Python with Pygame.
+# Demo:
